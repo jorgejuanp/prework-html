@@ -1,0 +1,90 @@
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #888;
+	font-weight:100;
+}
+
+h1, h2, h3, p {
+	font-weight:100;
+}
+
+header {
+	width: 100%;
+	height: 100px;
+	background-color: #D6FFC2;
+}
+
+h1 {
+	text-align: center;
+	font-size: 44px;
+	padding: 25px 0;
+	margin: 0px;
+}
+
+article {
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+	background-color: #FFCCCC;
+}
+
+footer {
+	margin: 0px;
+	width: 100%;
+	height: 100px;
+	clear: both;
+	background-color: #D6FFC2;
+}
+
+footer h3 {
+	text-align: center;
+	padding: 40px 0 0 0;
+	margin: 0px;
+}
+
+.left {
+	width: 440px;
+	height: 600px;
+	float: left;
+	background-color: #D6FFC2;
+	margin:  30px;
+}
+
+img {
+	width: 440px;
+	height: 600px;
+}
+
+.right {
+	width: 440px;
+	height: 600px;
+	float: right;
+	background-color: #D6FFC2;
+	margin: 30px;
+}
+
+.right p {
+	font-size: 18px;
+}
+
+.actors-list li {
+	margin:;
+}
+
+.aside {
+	width: 940px;
+	height: 300px;
+	clear: both;
+	background-color: #D6FFC2;
+	margin: 30px;
+}
+
+.aside ul li {
+	list-style: none;
+}
+
+.related-content li {
+	float: left;
+	margin: 0 15px 0 0;
+}
